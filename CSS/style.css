@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#submitForm{
+    display: inline-block;
+}
+table {
+    border: 1px solid ghostwhite;
+  }
+th{
+    color: greenyellow;
+    font-size: 2em;
+}
+.removeButton{
+    display:none;
+}
+  
